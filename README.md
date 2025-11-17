@@ -6,7 +6,7 @@
 
 ```bash
 # 1. Клонируем репозиторий
-git clone https://github.com/yourname/sui-wallet-generator.git
+git clone https://github.com/hudsoonme/sui-wallet-generator.git
 cd sui-wallet-generator
 
 # 2. Создаём виртуальное окружение (рекомендуется)
